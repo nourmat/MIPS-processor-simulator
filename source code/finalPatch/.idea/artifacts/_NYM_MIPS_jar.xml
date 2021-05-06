@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name=".NYM_MIPS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/_NYM_MIPS_jar</output-path>
+    <root id="archive" name="finalPatch.jar">
+      <element id="module-output" name="finalPatch" />
+    </root>
+  </artifact>
+</component>
